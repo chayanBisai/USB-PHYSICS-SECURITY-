@@ -1,0 +1,9 @@
+/python/
+
+
+SENDER_EMAIL = "yourprojectmail@gmail.com"
+SENDER_APP_PASSWORD = "your_16_char_app_password"
+RECEIVER_EMAIL = "yourreceiveremail@gmail.com"
+
+
+
